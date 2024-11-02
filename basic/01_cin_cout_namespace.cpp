@@ -1,47 +1,6 @@
 #include <iostream>
 #include <string>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 namespace my_own_namespace {
 	int global_variable = 42;
 	std::string global_str = "String";
